@@ -1,0 +1,17 @@
+D:\C#\blogtest\DataLibrary\bin\Debug\DataLibrary.dll
+D:\C#\blogtest\DataLibrary\bin\Debug\DataLibrary.pdb
+D:\C#\blogtest\DataLibrary\bin\Debug\Dapper.dll
+D:\C#\blogtest\DataLibrary\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\C#\blogtest\DataLibrary\bin\Debug\System.Security.AccessControl.dll
+D:\C#\blogtest\DataLibrary\bin\Debug\System.Security.Permissions.dll
+D:\C#\blogtest\DataLibrary\bin\Debug\System.Security.Principal.Windows.dll
+D:\C#\blogtest\DataLibrary\bin\Debug\Dapper.xml
+D:\C#\blogtest\DataLibrary\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\C#\blogtest\DataLibrary\bin\Debug\System.Security.AccessControl.xml
+D:\C#\blogtest\DataLibrary\bin\Debug\System.Security.Permissions.xml
+D:\C#\blogtest\DataLibrary\bin\Debug\System.Security.Principal.Windows.xml
+D:\C#\blogtest\DataLibrary\obj\Debug\DataLibrary.csproj.AssemblyReference.cache
+D:\C#\blogtest\DataLibrary\obj\Debug\DataLibrary.csproj.CoreCompileInputs.cache
+D:\C#\blogtest\DataLibrary\obj\Debug\DataLibrary.csproj.CopyComplete
+D:\C#\blogtest\DataLibrary\obj\Debug\DataLibrary.dll
+D:\C#\blogtest\DataLibrary\obj\Debug\DataLibrary.pdb
